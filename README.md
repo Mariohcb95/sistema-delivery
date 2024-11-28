@@ -1,1 +1,4 @@
-# sistema-delivery
+# Sistema Delivery
+
+Tecnologias utilizadas: 
+  - Spring Boot com Java.
